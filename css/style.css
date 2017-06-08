@@ -2,3 +2,47 @@
 wood brown: A89F68;
 army green: 41521F;
 */
+
+*{
+	font-family: 'Roboto', sans-serif;
+}
+
+.first-section{
+	background-image: url('../img/portada.jpg');
+	height: 100vh;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: bottom;
+}
+
+.navbar{
+	position: absolute;
+	padding-right: 2em;
+}
+
+.navbar-header h4{
+	text-shadow: 5px 5px 5px #404040;
+	color: white;
+	margin-left: 2em;
+	padding: 5px;
+	float: left;
+}
+
+.nav li a{
+	color: whitesmoke;
+	text-shadow: 5px 5px 5px #404040;
+}
+
+.nav li a:hover{
+	color: white;
+	text-shadow: none;
+}
+
+#save{
+	padding: 16.5em 6.5em;
+	color: whitesmoke;
+}
+
+#save h3{
+	font-size: 2em;
+}
