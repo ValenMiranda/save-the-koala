@@ -125,3 +125,19 @@ army green: 41521F;
 .fa-paw:hover{
 	color: #41521F;
 }
+
+footer{
+	background-color: #41521F;
+}
+
+footer h4,
+footer a,
+footer ul li{
+	color: #A89F68;
+}
+
+footer ul{
+	list-style: none;
+	padding-left: 6.5em;
+}
+
