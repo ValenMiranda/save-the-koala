@@ -12,7 +12,7 @@ army green: 41521F;
 	height: 100vh;
 	background-size: cover;
 	background-repeat: no-repeat;
-	background-position: bottom;
+	background-position: center;
 }
 
 .navbar{
@@ -20,8 +20,8 @@ army green: 41521F;
 	padding-right: 2em;
 }
 
-.navbar-header h4{
-	text-shadow: 5px 5px 5px #404040;
+.navlogo{
+	text-shadow: 1px 1px 1px #aaa;
 	color: white;
 	margin-left: 2em;
 	padding: 5px;
@@ -30,7 +30,7 @@ army green: 41521F;
 
 .nav li a{
 	color: whitesmoke;
-	text-shadow: 5px 5px 5px #404040;
+	text-shadow: 1px 1px 1px #aaa;
 }
 
 .nav li a:hover{
@@ -45,4 +45,83 @@ army green: 41521F;
 
 #save h3{
 	font-size: 2em;
+}
+
+.img3{
+	margin-top: 4em;
+	margin-bottom: 6.5em;
+}
+
+.text-dos {
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+
+.text-dos p,
+.text-dos h5{
+	color: gray;
+}
+
+.section-dos, .seemore{
+	color: #A69C67;
+}
+
+.third-section{
+	background-color: #A89F68;
+}
+
+.text-small,
+.text-tres{
+	color: white;
+}
+
+.section-tres{
+	color: #41521F;
+}
+
+.texto-tres{
+	margin-top: 3em;
+	margin-bottom: 3em;
+}
+
+.koala-cosita{
+	border: 8px solid white;
+	margin-bottom: 5em;
+	text-align: center;
+}
+
+.fourth-section{
+	background-image: url('../img/all.jpg');
+	height: 100vh;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	color: white;
+}
+
+.fifth-section{
+	color: #A89F68;
+	padding-bottom: 2em;
+}
+
+.fifth-section p{
+	color: gray;
+}
+
+.text-icon{
+	margin-top: 3em;
+	margin-bottom: 3em;
+}
+
+.fa-heart, 
+.fa-globe, 
+.fa-paw{
+	font-size: 8em;
+	padding-bottom: 20px;
+}
+
+.fa-heart:hover, 
+.fa-globe:hover, 
+.fa-paw:hover{
+	color: #41521F;
 }
